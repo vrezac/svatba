@@ -1,14 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Nase Svatba//v1.0//CS
+PRODID:-//Svatba//NONSGML v1.0//CS
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTART:20260620T120000Z
+DTEND:20260621T020000Z
+DTSTAMP:20260226T132000Z
+UID:svatba-2026-unique-id@vassweb.cz
 SUMMARY:Naše Svatba 💍
-DTSTART:20260620T140000Z
-DTEND:20260620T235900Z
+DESCRIPTION:Těšíme se na vás! Nezapomeňte si vzít dobrou náladu.\nVíce info najdete na našem webu.
 LOCATION:Zámek Hluboká nad Vltavou
-DESCRIPTION:Těšíme se na vás! Nezapomeňte si vzít dobrou náladu. Více info na našem webu.
 STATUS:CONFIRMED
 SEQUENCE:0
 BEGIN:VALARM
